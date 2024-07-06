@@ -21,7 +21,7 @@ This is a web application built with Express.js and PostgreSQL where users can t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/capital-city-quiz.git
+   git clone https://github.com/Nitya-Kalloli/Capital_City_Quiz
    cd capital-city-quiz
 
 2. Install dependencies:
