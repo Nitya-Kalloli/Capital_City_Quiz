@@ -36,3 +36,4 @@ Contributions are welcome! If you'd like to improve the game or add new features
 
 ## Feedback
 Your feedback is valuable! If you have any suggestions, feature requests, or issues, please feel free to open an issue on GitHub or contact me nityakalloli.dev@gmail.com
+
