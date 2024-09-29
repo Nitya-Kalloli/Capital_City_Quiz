@@ -16,6 +16,10 @@ This is a web application built with Express.js and PostgreSQL where users can t
 - **Body-parser**: Middleware to parse incoming request bodies in a middleware before your handlers.
 - **pg**: PostgreSQL client for Node.js to interact with the PostgreSQL database.
 
+
+https://github.com/user-attachments/assets/92156ec7-75f4-44ba-857e-89dd248cd4ef
+
+
 ## Installation
 
 1. Clone the repository:
